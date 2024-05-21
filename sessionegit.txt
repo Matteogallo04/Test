@@ -1,0 +1,6 @@
+Git init (--->crea una repository locale)
+Git status (--->fa una verifica sullo stato della repository locale)
+git add (---> traccia il file)
+git add .(---> traccia tutti i file)
+git commit -m( messagio) per salvare i file nella repository localegit
+git branch-m main  (cambio branch con main)
