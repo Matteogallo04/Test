@@ -4,3 +4,5 @@ git add (---> traccia il file)
 git add .(---> traccia tutti i file)
 git commit -m( messagio) per salvare i file nella repository localegit
 git branch-m main  (cambio branch con main)
+GIT PUSH carico le modifiche dalla repository remota
+GIT PULL SCARICO LE MODIFICHE DALLA REPOSITORY REMOTA
